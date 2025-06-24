@@ -1,17 +1,10 @@
 ## Oii! Eu sou a Ana Laura👋
 
 - 🌱 Estudando Desenvolvimento de Sistemas
-- 😄 Pronouns: ela/dela
-
 ---
 
 ## 🚀 Meu Projeto em Destaque: Ensinais (App de Libras)
 
-<p align="center">
-  <a href="https://github.com/anabanana-dev/Ensinais-TTC-app">
-    <img src="https://github.com/anabanana-dev/Ensinais-TTC-app/raw/main/assets/CapaApp.png?raw=true" alt="Demonstração do App Ensinais para aprender Libras" width="400"/>
-  </a>
-</p>
 
 <p align="center">
   O <strong>Ensinais</strong> é um aplicativo dedicado ao ensino e aprendizado da <strong>Língua Brasileira de Sinais (Libras)</strong>. O objetivo do projeto é tornar o estudo de Libras mais acessível, interativo e prático para todos os interessados em aprender essa importante forma de comunicação.
