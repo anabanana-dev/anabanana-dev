@@ -1,6 +1,7 @@
 ## Oii! Eu sou a Ana Laura👋
 
-- 🌱 Estudando Desenvolvimento de Sistemas
+- 🌱Graduando Ciencia de dados para negócios
+- 🌱Técnica em Desenvolvimento de Sistemas
 ---
 
 ## 🚀 Meu Projeto em Destaque: Ensinais (App de Libras)
