@@ -1,6 +1,5 @@
 ## Oii! Eu sou a Ana Laura👋
 
-🚀 Sobre mim
 -🎓 Estudante de Ciência de Dados para Negócios.
 
 -💻 Técnica em Desenvolvimento de Sistemas.
