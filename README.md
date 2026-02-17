@@ -1,8 +1,11 @@
 ## Oii! Eu sou a Ana Laura👋
 
-- 🌱Graduando Ciencia de dados para negócios
-- 🌱Técnica em Desenvolvimento de Sistemas
----
+🚀 Sobre mim
+-🎓 Estudante de Ciência de Dados para Negócios.
+
+-💻 Técnica em Desenvolvimento de Sistemas.
+
+-📊 Experiência prática com Business Intelligence e Análise de Pareto no setor financeiro.
 
 ## 🚀 Meu Projeto em Destaque: Ensinais (App de Libras)
 
@@ -33,10 +36,10 @@
 
 ### 📊 Minhas Estatísticas e Tecnologias
 
-<div>
-  <a href="https://github.com/anabanana-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabanana-dev&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabanana-dev&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/anabanana-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabanana-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabanana-dev&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -46,7 +49,7 @@
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ana-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" height="60" width="70" alt="gatito" src="https://media1.tenor.com/images/609d8c34ddee630ddc5a1bd6125733f3/tenor.gif?itemid=13981292">
 </div>
 
