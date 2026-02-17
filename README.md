@@ -47,20 +47,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
 </div>
 
+
+
 ### 📊 Contribuições
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anabanana-dev&theme=dracula&area=true&hide_border=true" width="100%">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ana-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" height="60" width="70" alt="gatito" src="https://media1.tenor.com/images/609d8c34ddee630ddc5a1bd6125733f3/tenor.gif?itemid=13981292">
-</div>
 
 ---
 
